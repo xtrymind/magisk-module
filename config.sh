@@ -41,7 +41,8 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "     Android P audio file      "
+  ui_print "          (xtrymind)           "
   ui_print "*******************************"
 }
 

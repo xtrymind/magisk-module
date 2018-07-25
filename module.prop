@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=PAudio
+name=Android P audio
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=xtrymind
+description=Android P audio file from Developer Preview 4
 minMagisk=1500
