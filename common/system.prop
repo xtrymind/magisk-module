@@ -1,3 +1,6 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
+
+ro.boot.vendor.overlay.theme=com.google.android.theme.pixel
+persist.camera.HAL3.enabled=1
