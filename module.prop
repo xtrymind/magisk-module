@@ -1,7 +1,7 @@
 id=pixel-audio
 name=Pixel Audio
-version=v1.1
-versionCode=20180815
+version=v1.2
+versionCode=201808151
 author=xtrymind
 description=Pixel audio file from Pixel PR1
 minMagisk=1500
