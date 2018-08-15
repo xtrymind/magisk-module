@@ -1,7 +1,7 @@
-id=PAudio
-name=Android P audio
-version=v1
-versionCode=1
+id=pixel-audio
+name=Pixel Audio
+version=v1.1
+versionCode=20180815
 author=xtrymind
-description=Android P audio file from Developer Preview 4
+description=Pixel audio file from Pixel PR1
 minMagisk=1500
