@@ -1,7 +1,7 @@
 id=mido-pie-addon
 name=Mido Aosp Pie Addon
-version=v2.1
-versionCode=20180815
+version=v2.2
+versionCode=20180820
 author=@xtrymind
-description=Enable Blue Accent Pixel color, Camera2 API, and Round Icon(Circle)
+description=Enable Blue Accent Pixel color and Camera2 API
 minMagisk=1500
