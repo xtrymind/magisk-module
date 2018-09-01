@@ -4,4 +4,4 @@ version=v2.3
 versionCode=20180823
 author=xtrymind
 description=Enable Blue Accent Pixel color and Camera2 API
-minMagisk=1500
+minMagisk=17000
