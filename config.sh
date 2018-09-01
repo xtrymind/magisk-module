@@ -41,7 +41,8 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "     Redmi Note 4 Pie Addon    "
+  ui_print "          by xtrymind          "
   ui_print "*******************************"
 }
 
