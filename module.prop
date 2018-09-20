@@ -1,7 +1,7 @@
 id=midonav
 name=Redmi Note 4 Nav Bar
-version=v2.2
-versionCode=20180920
+version=v2.3
+versionCode=201809201
 author=xtrymind
 description=Disable Hardware Navigation button on redmi note 4
 minMagisk=17000
