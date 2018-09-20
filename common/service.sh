@@ -6,4 +6,6 @@ MODDIR=${0%/*}
 # This script will be executed in late_start service mode
 # More info in the main Magisk thread
 
-echo 0 > /sys/devices/soc/leds-qpnp-9/leds/button-backlight/brightness #set the current brightness of the keys to 0
+#set the current brightness of the keys to 0
+echo 0 > /sys/devices/soc/leds-qpnp-9/leds/button-backlight/brightness
+echo 0 > /sys/devices/soc/leds-qpnp-9/leds/button-backlight/max_brightness
