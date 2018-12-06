@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=wlan_zfmpm1
+name=wlan config for ZenFone Max Pro M1
 version=v1
 versionCode=1
-author=topjohnwu
+author=xtrymind
 description=A short description
 minMagisk=17000

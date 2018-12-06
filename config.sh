@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print " Wlan config for ZF Max Pro M1 "
   ui_print "*******************************"
 }
 
