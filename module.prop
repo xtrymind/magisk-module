@@ -1,7 +1,7 @@
-id=wlan_zfmpm1
+id=wlan_cfg
 name=wlan config for ZenFone Max Pro M1
-version=v1
-versionCode=1
+version=v1.1
+versionCode=201812091
 author=xtrymind
-description=A short description
+description=WCNSS config with extra setting for Asus ZenFone Max Pro M1
 minMagisk=17000
