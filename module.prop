@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=asus_banim
+name=Asus Bootanimation
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=xtrymind
+description=Stock ASUS Bootanimation, taken from ZenFone Max Pro M1
